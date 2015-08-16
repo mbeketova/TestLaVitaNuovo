@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84DF3BE61B7E5FB300A25181 /* Skin_NewZOO.png in Resources */ = {isa = PBXBuildFile; fileRef = 84DF3BE51B7E5FB300A25181 /* Skin_NewZOO.png */; };
+		84DF3BED1B7E63D300A25181 /* PVOldTerritory.m in Sources */ = {isa = PBXBuildFile; fileRef = 84DF3BE81B7E63D300A25181 /* PVOldTerritory.m */; };
+		84DF3BEE1B7E63D300A25181 /* PVMapOverlay.m in Sources */ = {isa = PBXBuildFile; fileRef = 84DF3BEA1B7E63D300A25181 /* PVMapOverlay.m */; };
+		84DF3BEF1B7E63D300A25181 /* PVMapOverlayView.m in Sources */ = {isa = PBXBuildFile; fileRef = 84DF3BEC1B7E63D300A25181 /* PVMapOverlayView.m */; };
+		84DF3BF41B7F6D0700A25181 /* PVPaviion.m in Sources */ = {isa = PBXBuildFile; fileRef = 84DF3BF31B7F6D0700A25181 /* PVPaviion.m */; };
+		84DF3BFA1B7F80F000A25181 /* PVPavilionOverlay.m in Sources */ = {isa = PBXBuildFile; fileRef = 84DF3BF91B7F80F000A25181 /* PVPavilionOverlay.m */; };
+		84E0E8CC1B80148200AF3726 /* black (1).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84E0E8CB1B80148200AF3726 /* black (1).jpg */; };
+		84E0E8CF1B80184300AF3726 /* Animations.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E0E8CE1B80184300AF3726 /* Animations.m */; };
 		84E89DF21B7E43FC004277A7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E89DF11B7E43FC004277A7 /* main.m */; };
 		84E89DF51B7E43FC004277A7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E89DF41B7E43FC004277A7 /* AppDelegate.m */; };
 		84E89DF81B7E43FC004277A7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E89DF71B7E43FC004277A7 /* ViewController.m */; };
@@ -14,6 +22,11 @@
 		84E89DFD1B7E43FC004277A7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84E89DFC1B7E43FC004277A7 /* Images.xcassets */; };
 		84E89E001B7E43FC004277A7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84E89DFE1B7E43FC004277A7 /* LaunchScreen.xib */; };
 		84E89E0C1B7E43FC004277A7 /* TestLaVitaNuovoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E89E0B1B7E43FC004277A7 /* TestLaVitaNuovoTests.m */; };
+		84E89E161B7E4688004277A7 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84E89E151B7E4688004277A7 /* MapKit.framework */; };
+		84E89E181B7E46EA004277A7 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84E89E171B7E46EA004277A7 /* CoreLocation.framework */; };
+		84E89E1A1B7E494C004277A7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84E89E191B7E494C004277A7 /* Foundation.framework */; };
+		84E89E281B7E513D004277A7 /* MagicNewTerritory.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84E89E271B7E513D004277A7 /* MagicNewTerritory.plist */; };
+		84E89E2B1B7E566E004277A7 /* ArrayPavilion.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E89E2A1B7E566E004277A7 /* ArrayPavilion.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +40,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		84DF3BE51B7E5FB300A25181 /* Skin_NewZOO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Skin_NewZOO.png; sourceTree = "<group>"; };
+		84DF3BE71B7E63D300A25181 /* PVOldTerritory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PVOldTerritory.h; sourceTree = "<group>"; };
+		84DF3BE81B7E63D300A25181 /* PVOldTerritory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PVOldTerritory.m; sourceTree = "<group>"; };
+		84DF3BE91B7E63D300A25181 /* PVMapOverlay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PVMapOverlay.h; sourceTree = "<group>"; };
+		84DF3BEA1B7E63D300A25181 /* PVMapOverlay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PVMapOverlay.m; sourceTree = "<group>"; };
+		84DF3BEB1B7E63D300A25181 /* PVMapOverlayView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PVMapOverlayView.h; sourceTree = "<group>"; };
+		84DF3BEC1B7E63D300A25181 /* PVMapOverlayView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PVMapOverlayView.m; sourceTree = "<group>"; };
+		84DF3BF21B7F6D0700A25181 /* PVPaviion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PVPaviion.h; sourceTree = "<group>"; };
+		84DF3BF31B7F6D0700A25181 /* PVPaviion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PVPaviion.m; sourceTree = "<group>"; };
+		84DF3BF81B7F80F000A25181 /* PVPavilionOverlay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PVPavilionOverlay.h; sourceTree = "<group>"; };
+		84DF3BF91B7F80F000A25181 /* PVPavilionOverlay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PVPavilionOverlay.m; sourceTree = "<group>"; };
+		84E0E8CB1B80148200AF3726 /* black (1).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "black (1).jpg"; sourceTree = "<group>"; };
+		84E0E8CD1B80184300AF3726 /* Animations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Animations.h; sourceTree = "<group>"; };
+		84E0E8CE1B80184300AF3726 /* Animations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Animations.m; sourceTree = "<group>"; };
 		84E89DEC1B7E43FC004277A7 /* TestLaVitaNuovo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestLaVitaNuovo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84E89DF01B7E43FC004277A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84E89DF11B7E43FC004277A7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +67,12 @@
 		84E89E051B7E43FC004277A7 /* TestLaVitaNuovoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestLaVitaNuovoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84E89E0A1B7E43FC004277A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84E89E0B1B7E43FC004277A7 /* TestLaVitaNuovoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestLaVitaNuovoTests.m; sourceTree = "<group>"; };
+		84E89E151B7E4688004277A7 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		84E89E171B7E46EA004277A7 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		84E89E191B7E494C004277A7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		84E89E271B7E513D004277A7 /* MagicNewTerritory.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = MagicNewTerritory.plist; sourceTree = "<group>"; };
+		84E89E291B7E566E004277A7 /* ArrayPavilion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArrayPavilion.h; sourceTree = "<group>"; };
+		84E89E2A1B7E566E004277A7 /* ArrayPavilion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ArrayPavilion.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +80,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84E89E1A1B7E494C004277A7 /* Foundation.framework in Frameworks */,
+				84E89E181B7E46EA004277A7 /* CoreLocation.framework in Frameworks */,
+				84E89E161B7E4688004277A7 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +99,10 @@
 		84E89DE31B7E43FC004277A7 = {
 			isa = PBXGroup;
 			children = (
+				84E89E1D1B7E5104004277A7 /* OverlayImageMap */,
+				84E89E191B7E494C004277A7 /* Foundation.framework */,
+				84E89E171B7E46EA004277A7 /* CoreLocation.framework */,
+				84E89E151B7E4688004277A7 /* MapKit.framework */,
 				84E89DEE1B7E43FC004277A7 /* TestLaVitaNuovo */,
 				84E89E081B7E43FC004277A7 /* TestLaVitaNuovoTests */,
 				84E89DED1B7E43FC004277A7 /* Products */,
@@ -81,10 +121,14 @@
 		84E89DEE1B7E43FC004277A7 /* TestLaVitaNuovo */ = {
 			isa = PBXGroup;
 			children = (
+				84E0E8CD1B80184300AF3726 /* Animations.h */,
+				84E0E8CE1B80184300AF3726 /* Animations.m */,
 				84E89DF31B7E43FC004277A7 /* AppDelegate.h */,
 				84E89DF41B7E43FC004277A7 /* AppDelegate.m */,
 				84E89DF61B7E43FC004277A7 /* ViewController.h */,
 				84E89DF71B7E43FC004277A7 /* ViewController.m */,
+				84E89E291B7E566E004277A7 /* ArrayPavilion.h */,
+				84E89E2A1B7E566E004277A7 /* ArrayPavilion.m */,
 				84E89DF91B7E43FC004277A7 /* Main.storyboard */,
 				84E89DFC1B7E43FC004277A7 /* Images.xcassets */,
 				84E89DFE1B7E43FC004277A7 /* LaunchScreen.xib */,
@@ -117,6 +161,26 @@
 				84E89E0A1B7E43FC004277A7 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		84E89E1D1B7E5104004277A7 /* OverlayImageMap */ = {
+			isa = PBXGroup;
+			children = (
+				84DF3BE51B7E5FB300A25181 /* Skin_NewZOO.png */,
+				84E0E8CB1B80148200AF3726 /* black (1).jpg */,
+				84E89E271B7E513D004277A7 /* MagicNewTerritory.plist */,
+				84DF3BE71B7E63D300A25181 /* PVOldTerritory.h */,
+				84DF3BE81B7E63D300A25181 /* PVOldTerritory.m */,
+				84DF3BE91B7E63D300A25181 /* PVMapOverlay.h */,
+				84DF3BEA1B7E63D300A25181 /* PVMapOverlay.m */,
+				84DF3BEB1B7E63D300A25181 /* PVMapOverlayView.h */,
+				84DF3BEC1B7E63D300A25181 /* PVMapOverlayView.m */,
+				84DF3BF21B7F6D0700A25181 /* PVPaviion.h */,
+				84DF3BF31B7F6D0700A25181 /* PVPaviion.m */,
+				84DF3BF81B7F80F000A25181 /* PVPavilionOverlay.h */,
+				84DF3BF91B7F80F000A25181 /* PVPavilionOverlay.m */,
+			);
+			name = OverlayImageMap;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +263,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84E0E8CC1B80148200AF3726 /* black (1).jpg in Resources */,
 				84E89DFB1B7E43FC004277A7 /* Main.storyboard in Resources */,
 				84E89E001B7E43FC004277A7 /* LaunchScreen.xib in Resources */,
 				84E89DFD1B7E43FC004277A7 /* Images.xcassets in Resources */,
+				84DF3BE61B7E5FB300A25181 /* Skin_NewZOO.png in Resources */,
+				84E89E281B7E513D004277A7 /* MagicNewTerritory.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,7 +288,14 @@
 			files = (
 				84E89DF81B7E43FC004277A7 /* ViewController.m in Sources */,
 				84E89DF51B7E43FC004277A7 /* AppDelegate.m in Sources */,
+				84E0E8CF1B80184300AF3726 /* Animations.m in Sources */,
+				84DF3BF41B7F6D0700A25181 /* PVPaviion.m in Sources */,
+				84DF3BFA1B7F80F000A25181 /* PVPavilionOverlay.m in Sources */,
+				84DF3BED1B7E63D300A25181 /* PVOldTerritory.m in Sources */,
+				84DF3BEE1B7E63D300A25181 /* PVMapOverlay.m in Sources */,
+				84E89E2B1B7E566E004277A7 /* ArrayPavilion.m in Sources */,
 				84E89DF21B7E43FC004277A7 /* main.m in Sources */,
+				84DF3BEF1B7E63D300A25181 /* PVMapOverlayView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -418,6 +492,7 @@
 				84E89E111B7E43FC004277A7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84E89E121B7E43FC004277A7 /* Build configuration list for PBXNativeTarget "TestLaVitaNuovoTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +501,7 @@
 				84E89E141B7E43FC004277A7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
